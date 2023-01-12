@@ -1,0 +1,1 @@
+writing text in file1
